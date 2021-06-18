@@ -3,4 +3,4 @@ En ella vamos a llevar a cabo la simulación de un videojuego a través de Eclip
 
 Autor: Jorge Higuero Peña
 
-Fecha: 21/06/2021
+Fecha: 18/06/2021
